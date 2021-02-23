@@ -2,8 +2,11 @@
 Data of Earth system models for regional environmental management: Prospects and limitations of the current generation of CMIP6 and next generation development
 
 Data and codes that support the findings of this study are openly available. This repository includes the Jupyter Notebook containing the python code for data analysis and visualization. In addition, the repository includes the processed data of the Earth system modeling data of Coupled Model Intercomparison Project Phase 6 (Balaji et al., 2018; Eyring et al., 2016), reanalysis data of Copernicus Marine Environment Monitoring Service  (Drévillon et al., 2018; Fernandez & Lellouche, 2018), and Karenia brevis the Fish and Wildlife Research Institute at the Florida Fish and Wildlife Conservation Commission (FWRI, 2020) that are used to support the findings of this study. All the data is openly available:
+
 •	The Karenia brevis data can be obtained from the HAB Monitoring Database Florida Fish and Wildlife Conservation Commission are available by contacting the Florida Fish and Wildlife Conservation CommissionHABdata@MyFWC.com
+
 •	The CMIP6 model data can be obtained from the Earth System Grid Federation (ESGF, Cinquini et al., 2014)nodes such as https://esgf-data.dkrz.de/search/cmip6-dkrz/.  
+
 •	The reanalysis data can be obtained from CMEMS  online https://resources.marine.copernicus.eu/?option=com_csw&view=details&product_id=GLOBAL_REANALYSIS_PHY_001_030.  
 
 
