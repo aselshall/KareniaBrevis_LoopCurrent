@@ -22,3 +22,6 @@ Eyring, V., Bony, S., Meehl, G. A., Senior, C. A., Stevens, B., Stouffer, R. J.,
 
 Fernandez, E., & Lellouche, J. M. (2018). PRODUCT USER MANUAL For the Global Ocean Physical Reanalysis product GLOBAL_REANALYSIS_ PHY_001_030, 15.
 FWRI. (2020). HAB Monitoring Database. Retrieved December 23, 2020, from http://myfwc.com/research/redtide/monitoring/database/
+
+[![DOI](https://zenodo.org/badge/341354951.svg)](https://zenodo.org/badge/latestdoi/341354951)
+
